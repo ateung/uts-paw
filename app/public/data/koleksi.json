@@ -1,10 +1,83 @@
 [
   {
     "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
+    "judul": "geprek mba uwa",
+    "kategori": "makanan",
+    "alamat": "gerbang pemda",
+    "hargaRataRata": 12.000,
+    "jamBuka": "08.00-21.00"
+  },
+  {
+    "id": "2",
+    "judul": "geprek afifah",
+    "kategori": "makanan",
+    "alamat": "bertigaan depan warung tulang",
+    "hargaRataRata": 10.000,
+    "jamBuka": "08.00-13.00"
+  },
+  {
+    "id": "3",
+    "judul": "jus seger ",
+    "kategori": "minuman",
+    "alamat": "letter s belwis",
+    "hargaRataRata": 10.000,
+    "jamBuka": "09.00-20.00"
+  },
+  {
+    "id": "4",
+    "judul": "es teh dan jeruk belwis",
+    "kategori": "minuman",
+    "alamat": "sebelah kost bunda hash",
+    "hargaRataRata": 7.000,
+    "jamBuka": "10.00-17.00"
+  },
+  {
+    "id": "5",
+    "judul": "martabak mesir",
+    "kategori": "jajanan",
+    "alamat": "pertigaan lapas",
+    "hargaRataRata": 18.000,
+    "jamBuka": "17.00-00.00"
+  },
+  {
+    "id": "6",
+    "judul": "roti bakar syafira",
+    "kategori": "jajanan",
+    "alamat": "gerbang barat",
+    "hargaRataRata": 15.000,
+    "jamBuka": "17.00-22.00"
+  },
+  {
+    "id": "7",
+    "judul": "makaroni telor",
+    "kategori": "jajanan",
+    "alamat": "embung A",
+    "hargaRataRata": 5.000,
+    "jamBuka": "16.00-21.00"
+  },
+  {
+    "id": "8",
+    "judul": "es teh indonesia",
+    "kategori": "minuman",
+    "alamat": "belakang PB swalayan",
+    "hargaRataRata": 25.000,
+    "jamBuka": "08.00-21.00"
+  },
+  {
+    "id": "9",
+    "judul": "telur gunung pakde",
+    "kategori": "jajanan",
+    "alamat": "perempatan TVRI",
+    "hargaRataRata": 1.000,
+    "jamBuka": "16.00-20.30"
+  },
+  {
+    "id": "10",
+    "judul": "bakso bakar 123",
+    "kategori": "jajanan",
+    "alamat": "depan PB swalayan",
+    "hargaRataRata": 2.000,
+    "jamBuka": "15.45-21.00"
   }
+  
 ]
